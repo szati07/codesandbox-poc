@@ -1,0 +1,40 @@
+{
+  "name": "visx-sunburst-poc",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@visx/event": "1.0.0",
+    "@visx/gradient": "1.0.0",
+    "@visx/group": "1.0.0",
+    "@visx/hierarchy": "1.0.0",
+    "@visx/react-spring": "1.1.0",
+    "@visx/responsive": "1.1.0",
+    "@visx/scale": "1.1.0",
+    "@visx/shape": "1.1.0",
+    "@visx/text": "1.1.0",
+    "@visx/tooltip": "1.1.0",
+    "d3-hierarchy": "2.0.0",
+    "d3-interpolate": "2.0.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-scripts": "3.4.3",
+    "react-spring": "8.0.27"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
